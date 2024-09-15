@@ -1,4 +1,10 @@
-## Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+
+<p align = "center">
+  <img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api?username=DarkPhoeniix&show_icons=true&theme=transparent&hide=stars&hide_rank=true&hide_border=true&card_width=450">
+  <img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoeniix&hide_border=true&hide=html,CSS,javascript&langs_count=6&layout=compact&card_width=450&theme=transparent">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=DarkPhoeniix&theme=transparent&hide_border=true&background=FFFFFF00">
+</p>
 
 <!--
 **DarkPhoeniix/DarkPhoeniix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
